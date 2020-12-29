@@ -33,7 +33,7 @@
     },
     "Custom_field": {
       "type": "component",
-      "repeatable": false,
+      "repeatable": true,
       "component": "custom.custom-field"
     }
   }
